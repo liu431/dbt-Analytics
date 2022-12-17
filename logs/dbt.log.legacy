@@ -198,3 +198,15 @@
 2022-12-17 14:44:38.147769 (Thread-41): handling ps request
 2022-12-17 14:44:38.148028 (Thread-41): 14:44:38  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'baba33f5-2423-44d0-a02e-5179195c21fb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fe9565e2700>]}
 2022-12-17 14:44:38.148404 (Thread-41): sending response (<Response 490 bytes [200 OK]>) to 10.0.192.137
+2022-12-17 14:45:05.268057 (Thread-42): 14:45:05  Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+2022-12-17 14:45:05.268274 (Thread-42): 14:45:05  Partial parsing enabled, no changes found, skipping parsing
+2022-12-17 14:45:05.274380 (Thread-42): 14:45:05  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'baba33f5-2423-44d0-a02e-5179195c21fb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fe9564f4df0>]}
+2022-12-17 14:45:05.435282 (Thread-43): handling status request
+2022-12-17 14:45:05.435682 (Thread-43): 14:45:05  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'baba33f5-2423-44d0-a02e-5179195c21fb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fe9565de760>]}
+2022-12-17 14:45:05.436134 (Thread-43): sending response (<Response 1263 bytes [200 OK]>) to 10.0.192.137
+2022-12-17 14:45:05.872980 (Thread-44): handling status request
+2022-12-17 14:45:05.873401 (Thread-44): 14:45:05  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'baba33f5-2423-44d0-a02e-5179195c21fb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fe9565de5b0>]}
+2022-12-17 14:45:05.873894 (Thread-44): sending response (<Response 1263 bytes [200 OK]>) to 10.0.192.137
+2022-12-17 14:45:13.390939 (Thread-45): handling status request
+2022-12-17 14:45:13.391354 (Thread-45): 14:45:13  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'baba33f5-2423-44d0-a02e-5179195c21fb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fe9565de490>]}
+2022-12-17 14:45:13.391798 (Thread-45): sending response (<Response 1263 bytes [200 OK]>) to 10.0.192.137
