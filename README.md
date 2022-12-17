@@ -1,3 +1,3 @@
-# dbt project for Adgile
+# dbt project
 
-## Purpose: transform data in the Snowflake warehouse into useful datasets for BI tools and analytics
+## Purpose: transform data in the Bigquery warehouse into useful datasets for BI tools and analytics
